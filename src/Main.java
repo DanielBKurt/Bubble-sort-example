@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         // left empty on purpose
-        //testing change
+        //testing new change
     }
 
     @Test
